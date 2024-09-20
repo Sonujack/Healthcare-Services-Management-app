@@ -1,0 +1,59 @@
+.service-list {
+    margin-top: 30px;
+    text-align: left;
+  }
+
+  .service-item {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+    margin-bottom: 10px;
+  }
+  
+  .service-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .edit-form .input-field {
+    margin-right: 10px;
+    padding: 5px;
+  }
+  
+  .btn {
+    padding: 5px 10px;
+    margin-left: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .edit-btn {
+    background-color: #ff9800;
+    border-radius: 2px;
+    color: white;
+  }
+
+  .edit-btn:hover{
+      color:black
+  }
+  
+  .delete-btn {
+    background-color: #f44336;
+    color:white;
+    border-radius: 2px;
+  }
+
+  .delete-btn:hover{
+   color:black;
+  }
+  
+  .update-btn {
+    background-color: #4caf50;
+    color: white;
+    border-radius: 2px;
+  }
+  .update-btn:hover{
+     color:black;
+     
+  }
+  
